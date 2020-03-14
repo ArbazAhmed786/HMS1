@@ -45,7 +45,7 @@
           <div class="card-body">
           <center> <h1 class="card-title">MY ROOM</h1></center>
             <p class="card-text"></p>
-           <center> <a href="#" class="btn btn-success"><span><i class="fas fa-calendar-alt"></i></span>&nbsp;Rooms</a></center><br>
+           <center> <a href="index.php?page=room-details" class="btn btn-success"><span><i class="fas fa-calendar-alt"></i></span>&nbsp;Rooms</a></center><br>
           </div>
         </div>
       </div>
