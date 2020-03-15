@@ -44,7 +44,7 @@ while($row=mysqli_fetch_assoc($runq1))
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Online Notice Board Admin Dashboard</title>
+    <title>HOSTEL MANAGEMENT SYSTEM</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
