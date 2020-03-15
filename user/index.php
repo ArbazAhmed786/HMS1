@@ -16,7 +16,7 @@ $users=mysqli_fetch_assoc($sql);
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Online Notice Board User Dashboard</title>
+    <title>HOSTEL MANGEMENT SYSTEM</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
